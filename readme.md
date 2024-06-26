@@ -21,7 +21,7 @@ To run this project, simply open the `index.html` file in your web browser.
 
 ## Screenshot
 
-[Ball Animation Screenshot](screenshot.png)
+![Ball Animation Screenshot](screenshot.png)
 
 ## Controls
 
@@ -51,5 +51,3 @@ This project is open-source and available under the MIT License.
 ## Acknowledgements
 
 - Font Awesome for the icons.
-
-
