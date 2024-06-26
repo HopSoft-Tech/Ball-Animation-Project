@@ -19,10 +19,6 @@ This is a simple ball animation project developed using HTML, CSS, and JavaScrip
 
 To run this project, simply open the `index.html` file in your web browser.
 
-## Screenshot
-
-![Ball Animation Screenshot](screenshot.png)
-
 ## Controls
 
 - **Play Button**: Starts or resumes the animation at normal speed.
